@@ -1,0 +1,29 @@
+Brotli==1.0.9 # compression algorithms
+certifi==2020.6.20
+chardet==3.0.4
+click==7.1.2
+dash==1.16.3 # bootstrap standards-based web services management for desktop
+dash-bootstrap-components==0.10.7
+dash-core-components==1.12.1
+dash-html-components==1.1.1
+dash-renderer==1.8.2
+dash-table==4.10.1
+Flask==1.1.2
+Flask-Compress==1.7.0
+Flask-Login==0.5.0
+Flask-SQLAlchemy==2.4.4
+future==0.18.2
+idna==2.10 #This is a library to support the Internationalised Domain Names in Applications (IDNA)
+itsdangerous==1.1.0
+Jinja2==2.11.3
+mailjet-rest==1.3.3 #Python API wrapper
+MarkupSafe==1.1.1 #implements a text object that escapes characters so it is safe to use in HTML and XML. 
+plotly==4.11.0 #graphing library for Python
+requests==2.24.0
+retrying==1.3.3
+shortuuid==1.0.1 #enerating uuids using Python's built-in uuid module and then translating them to base57
+six==1.15.0 #wrapping over differences between Python 2 and Python 3
+SQLAlchemy==1.3.20 #Python SQL toolkit 
+urllib3==1.25.2
+validate-email==1.3
+Werkzeug==1.0.1
